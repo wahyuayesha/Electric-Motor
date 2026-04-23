@@ -83,7 +83,7 @@ Simple tkinter gui for user to use the trained model
 ## 🚀 How to Run
 
 # Clone repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/wahyuayesha/Electric-Motor
 
 # Open notebook
 jupyter notebook
