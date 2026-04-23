@@ -82,6 +82,9 @@ Simple tkinter gui for user to use the trained model
 
 ## 🚀 How to Run
 
+# Download Dataset
+https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature 
+
 # Clone repository
 git clone https://github.com/wahyuayesha/Electric-Motor
 
